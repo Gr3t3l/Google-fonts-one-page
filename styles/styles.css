@@ -140,6 +140,7 @@ footer {
     background-color: rgb(0, 102, 102);
     display: block;
     font-weight: bold;
+    color: white;
 }
 a{ 
   text-decoration: none;
